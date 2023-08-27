@@ -4502,4 +4502,6 @@ Check out there result on [codepen](https://codepen.io/Asabeneh/full/vYGqQxP)
 
 🌕 You are amazing! You have just completed day 1 challenge and you are on your way to greatness. Now you are a JavaScript Ninja and ready to dive into React.
 
-🎉 CONGRATULATIONS ! 🎉
+🎉 YEAH CONGRATULATIONS ! 🎉
+
+[Day 2](../02.Introduction%20to%20React/02.Introduction%20to%20React.md)
